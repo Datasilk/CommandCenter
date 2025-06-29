@@ -1,7 +1,7 @@
 ﻿using OpenAI.Chat;
 
 
-namespace Rdio.Notifications.Utility
+namespace CommandCenter.Utility
 {
     public class LLM
     {
